@@ -6,7 +6,7 @@ Live beatbox sample replacement in the browser. Created at the [Protothon No. 4 
 
 1. Install the latest [Chrome Canary browser](https://tools.google.com/dlpage/chromesxs)
 
-2. Enter `chrome://flags` and enable 'web audio input'
+2. Enter `chrome://flags` in the address bar and hit return. Search the page for 'web audio input' and check it's enabled.
 
 3. Visit the [live demo](http://screamingrobots.com/beatbox/) and allow audio access (and camera, if you want to test the filter effect by waving a slice of pizza around).
 
